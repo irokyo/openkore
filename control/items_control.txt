@@ -596,8 +596,42 @@ Zenorc's Fang 0 0 1
 "Spearman Scroll 9" 0 0 0
 "Spearman Scroll 10" 0 0 0
 
-##### pay_fild09 #####
 
+##### pay_fild08 #####
+Red Herb 0 0 1
+Blue Herb 0 0 1
+Strawberry 0 1 0
+Spore Doll 0 0 1
+Mushroom Spore 0 0 1
+Hat 0 0 1
+Spore Card 0 1 0
+#Yellow Herb 0 0 1
+Emerald 0 0 1
+Pointed Scale 0 0 1
+Green Live 0 0 1
+Emveretacon 0 0 1
+Green Lace 0 0 1
+Pike [4] 0 0 1
+Wormtail Card 0 1 0
+Snake Scale 0 0 1
+Venom Canine 0 0 1
+Shining Scale 0 0 1
+Katana [4] 0 0 1
+Snake Card 0 1 0
+Green Herb 0 0 1
+Aloe Leaflet 0 0 1
+Bitter Herb 0 0 1
+Aloe 0 0 1
+Stem 0 0 1
+Pointed Scale 0 0 1
+Romantic Leaf 0 0 1
+Poison Herb Makulata 0 0 1
+White Herb 0 0 1
+Yggdrasil Berry 0 1 0
+Yggdrasil Seed 0 1 0
+Illusion Flower 0 0 1
+Light Granule 0 0 1
+Emperium 0 1 0
 
 ##### pay_fild07 #####
 
@@ -612,4 +646,7 @@ Zenorc's Fang 0 0 1
 
 
 #### Rogue Quest #####
-
+Yellow Herb 10 0 1
+Shell 10 0 1
+Grasshopper's Leg 10 0 1
+10 Bear's Footskin 10 0 1
