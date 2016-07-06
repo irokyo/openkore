@@ -595,3 +595,21 @@ Zenorc's Fang 0 0 1
 "Spearman Scroll 8" 0 0 0
 "Spearman Scroll 9" 0 0 0
 "Spearman Scroll 10" 0 0 0
+
+##### pay_fild09 #####
+
+
+##### pay_fild07 #####
+
+
+##### moc_fild03 #####
+
+
+##### moc_fild17 #####
+
+
+##### ein_fild09 #####
+
+
+#### Rogue Quest #####
+
